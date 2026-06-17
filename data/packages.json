@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pkg-test",
+    "name": "Test Package",
+    "capacity": "2 kW",
+    "type": "Custom",
+    "description": "Test",
+    "warranty": "1 year",
+    "products": [],
+    "installationCost": 1000,
+    "transportationCost": 100,
+    "otherCharges": 50,
+    "profitMarginPct": 20,
+    "active": true,
+    "popular": false
+  },
+  {
+    "id": "pkg-1781685747582",
+    "name": "3 kw solar package",
+    "capacity": "3 kw",
+    "type": "3kW",
+    "description": "",
+    "warranty": "25 years Panel | 5 years Inverter | 1 year Installation",
+    "products": [
+      {
+        "rowId": "row-102",
+        "productId": "panel-adani-620",
+        "productName": "Adani Bifacial Topcon 620wp DCR Panel",
+        "category": "Solar Panels",
+        "quantity": 1,
+        "unit": "Pcs",
+        "purchaseCost": 200000
+      }
+    ],
+    "installationCost": 0,
+    "transportationCost": 0,
+    "otherCharges": 0,
+    "profitMarginPct": 20,
+    "active": true,
+    "popular": false
+  }
+]
